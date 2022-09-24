@@ -1,4 +1,4 @@
-![Ethical_Hacking!](/assets/concept-of-computer-hacking-in-the-form-of-a-personal-computer-screen-viewed-through-a-magnifying-glass-R5HMYN.jpg "Ethical_hacking")
+![Ethical_Hacking!](/assets/cropped-1490-590-85329.jpg "Ethical_hacking")
 
 
 # About Me

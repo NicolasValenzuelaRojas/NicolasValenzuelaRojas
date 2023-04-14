@@ -3,7 +3,7 @@
 
 # About Me
 - Nicolas Valenzuela Rojas
-- 20 Years Old
+- 21 Years Old
 - Student in Duoc UC
 - IT engineer
 - Learning JS, React, python, HTML, CSS, SQL, Angular 
